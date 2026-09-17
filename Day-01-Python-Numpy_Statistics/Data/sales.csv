@@ -1,0 +1,11 @@
+Product,Quantity,Price,Revenue,Day
+Laptop,2,50000,100000,Monday
+Mouse,5,500,2500,Monday
+Keyboard,3,1200,3600,Tuesday
+Monitor,2,15000,30000,Tuesday
+Laptop,1,50000,50000,Wednesday
+Mouse,4,500,2000,Wednesday
+Keyboard,2,1200,2400,Thursday
+Monitor,1,15000,15000,Thursday
+Laptop,3,50000,150000,Friday
+Mouse,6,500,3000,Friday

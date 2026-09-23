@@ -1,0 +1,17 @@
+texts = [
+    "Win free money now",
+    "Meeting at 5 PM",
+    "Congratulations you won a prize",
+    "Please send the project report",
+    "Claim your free cash prize",
+    "Let's discuss the project tomorrow"
+]
+
+labels = [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+]
